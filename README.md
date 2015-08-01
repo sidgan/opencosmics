@@ -1,2 +1,4 @@
 # opencosmics
-Open Cosmics: Cosmic Ray Physics for everyone WebFest 2015
+# WebFest 2015
+Open Cosmics: Cosmic Ray Physics for everyone
+
